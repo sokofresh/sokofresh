@@ -1,12 +1,17 @@
-<div style="display: flex;">
-  <img align="left" src="logo.png" width="40%"/>
-  <h2 style="align-self: center; margin-left: 10px;">
-    <a href="https://sokofresh.co.ke/">Our Website</a>
+<div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; align-items: center;">
+    <img src="logo.png" width="30%" style="margin-right: 10px;">
+  </div>
+  <h2>
+    <a href="https://sokofresh.co.ke">Our Website</a>
   </h2>
 </div>
+    <h2 align="center" style="color: lightgreen;">Welcome to Sokofresh!</h2>
+
 <br>
-<h1 align="center" style="color: lightgreen;">Welcome to Sokofresh!</h1>
-<div style="text-align: center;"><img src="ova_homepage.png" style="max-width: 100%;"/></div>
+<div style="text-align: center;">
+  <img src="ova_homepage.png" style="max-width: 100%;" />
+</div>
 <h3 align="center">We offer experienced sourcing services for fresh fruit & vegetable buyers in East Africa.</h3>
 <br>
 <div style="display: flex; justify-content: center;">
