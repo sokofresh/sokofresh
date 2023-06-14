@@ -12,13 +12,13 @@
 <div style="display: flex; justify-content: center;">
 <div style="display: flex; margin: 0 auto;">  
 <div style=" margin-right: 10px;">
-    <img src="farmers.jpeg" width="100%" style="max-width: 100%;" />
+    <img src="farmers.jpeg" width="100%" style="max-width: 33%;" />
   </div>
   <div style="margin-right: 10px;">
-    <img src="mzee-1.jpg" width="100%" style="max-width: 100%;" />
+    <img src="mzee-1.jpg" width="100%" style="max-width: 33%;" />
   </div>
   <div >
-    <img src="farmer.jpeg" width="100%" style="max-width: 100%;" />
+    <img src="farmer.jpeg" width="100%" style="max-width: 33%;" />
   </div>
 </div>
 </div>
